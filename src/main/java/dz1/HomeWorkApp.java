@@ -16,7 +16,7 @@ public class HomeWorkApp {
     }
 
     private static void printcheckSumSign() {
-        int varA = 4;
+        int varA = 8;
         int varB = 5;
         System.out.println(varA + varB);
 
@@ -64,7 +64,6 @@ public class HomeWorkApp {
 
             System.out.println("A < B");
         }
-
 
     }
 }
